@@ -1,4 +1,4 @@
-,City,Lat,Lng,Temperature,Humidity,Cloudiness,Wind_Speed,Country,Date
+index,City,Lat,Lng,Temperature,Humidity,Cloudiness,Wind_Speed,Country,Date
 0,jonesboro,35.8423,-90.7043,78.03,41,1,19.57,US,1619477469
 1,tambilil,5.9622,124.6697,81.3,78,93,2.55,PH,1619477480
 2,alice springs,-23.7,133.8833,53.6,50,0,3.44,AU,1619477481
